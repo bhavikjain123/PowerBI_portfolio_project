@@ -7,3 +7,5 @@
 
 ## Data Visualisation and Analysis on Pizza Sales Report (Home)
 ![Pizza Sales Dashboard](https://github.com/bhavikjain123/PowerBI_portfolio_project/blob/main/Screenshot%20(115).png)
+## Data Visualisation and Analysis on Pizza Sales Report (Best and Worst Sellers)
+![Pizza Sales Dashboard](https://github.com/bhavikjain123/PowerBI_portfolio_project/blob/main/Screenshot%20(116).png)
