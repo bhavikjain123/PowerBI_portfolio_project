@@ -1,1 +1,1 @@
-![Employees Work-Life Balance Survey Breakdown](Screenshot (113).png)
+![Employees Work-Life Balance Survey Breakdown](Screenshot_(113).png)
